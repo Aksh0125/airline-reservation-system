@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+.vs/
+
+# Java
+target/
+*.class
+
+# Logs
+*.log
+
+# Environment
+.env
